@@ -54,7 +54,7 @@ const Home = () => {
         <div className='home'>
             <form onSubmit={handleSearch} className='search-form'>
                 <input type='text'
-                    placeholder='Search for Movies...'
+                    placeholder='Search  HollyWood and action movies.....'
                     className='search-input'
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
