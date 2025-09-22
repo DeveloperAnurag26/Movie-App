@@ -53,6 +53,9 @@ You can get an API key by creating an account at TMDB
 Link - https://www.themoviedb.org/
 
 
+ScreenShot -
+https://github.com/DeveloperAnurag26/Movie-App/blob/fd239dd8a087b3e91607c1c35b38c92ba77694f6/Screenshot%202025-09-22%20130117.png
+
 Live demo -   https://moviesearchreactapi.vercel.app/
 
 
