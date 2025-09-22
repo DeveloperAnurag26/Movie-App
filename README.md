@@ -1,12 +1,66 @@
-# React + Vite
+🎬 Movie App
+A simple and responsive Movie Web Application built with React.js and powered by the TMDB (The Movie Database) API.
+Users can search, explore, and view details of movies with a clean and modern UI and also add it on Favourite section.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 FEATURES
 
-Currently, two official plugins are available:
+🔍 Search Movies – Find any movie by its title.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎞️ Popular & Trending Movies – Displays trending and popular movie lists.
 
-## Expanding the ESLint configuration
+📄 Movie Details – Shows title, release date
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌙 Responsive UI – Works seamlessly on desktop and mobile.
+
+⚡ Fast Performance – Built with Vite for blazing-fast development.
+
+
+
+🛠️ Tech Stack
+
+Frontend: React.js, Vite
+
+Styling: CSS / Tailwind (if you used)
+
+API: TMDB API
+
+Package Manager: npm
+
+
+
+📦 Installation
+Clone the repository:
+
+git clone https://github.com/DeveloperAnurag26/Movie-App.git
+cd Movie-App
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+npm run dev
+
+
+🔑 Environment Variables
+
+Create a .env file in the root directory and add your TMDB API key:
+
+VITE_API_KEY=your_tmdb_api_key_here
+
+
+You can get an API key by creating an account at TMDB 
+Link - https://www.themoviedb.org/
+
+
+screenshot project-
+### Home Page  
+![Home](public/home.png)  
+
+
+Live demo -   https://moviesearchreactapi.vercel.app/
+
+
+
+
+
