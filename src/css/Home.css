@@ -30,16 +30,18 @@
 
 .search-button {
   padding: 0.75rem 1.5rem;
-  background-color: rgb(46, 25, 205);
+  background-color: rgb(204, 23, 17);
   color: white;
-  border-radius: 15px;
-  font-weight: 500;
-  transition: background-color 0.2s;
+  border-radius: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  transition: background-color 0.1s;
   white-space: nowrap;
+  font-size: 1.2rem;
+  outline: none;
 }
 
 .search-button:hover {
-  background-color: #3f3bc2;
+  background-color: #d60d0d;
 }
 
 

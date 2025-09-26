@@ -1,4 +1,5 @@
-🎬 Movie App
+🎬 Movie App -
+
 A simple and responsive Movie Web Application built with React.js and powered by the TMDB (The Movie Database) API.
 Users can search, explore, and view details of movies with a clean and modern UI and also add it on Favourite section.
 
@@ -56,6 +57,13 @@ Link - https://www.themoviedb.org/
 ScreenShot -
 
 ![Movie App Screenshot](./Screenshot.png)
+
+
+
+
+![Movie App Preview](src/assets/screenshot1.png)
+
+
 
 Live demo -   https://moviesearchreactapi.vercel.app/
 
